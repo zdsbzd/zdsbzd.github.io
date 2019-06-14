@@ -1,4 +1,6 @@
-﻿---
+﻿https://godbmw.com/passages/2018-11-15-theme-bmw-docs-zh/
+
+---
 title: 文章标题
 date: 文章创建日期
 categories: 文章分类
@@ -30,8 +32,19 @@ playlist:
     url: "http://music.163.com/song/media/outer/url?id=528306.mp3"
     cover: "//p1.music.126.net/1sw_ptPeI_GNm58VBW1udQ==/2504687488135369.jpg?param=130y130"
 
-作者: 董沅鑫
-链接: https://godbmw.com/passages/2018-11-15-theme-bmw-docs-zh/
-来源: godbmw.com
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+展示更多友链
+
+# 友链详细信息
+friends: # 这是一个数组, 每个元素是一个obj对象
+  -
+    nickname: 友链名称
+    avatar: 友链头像
+    site: 友链地址
+    meta: 友链信息
+  -
+    nickname: 友链名称2
+    avatar: 友链头像2
+    site: 友链地址2
+    meta: 友链信息2
+  # ...
 
